@@ -1,0 +1,45 @@
+C:\Users\ALUNO\Documents\popo\bin\Debug\net7.0\popo.exe
+C:\Users\ALUNO\Documents\popo\bin\Debug\net7.0\popo.deps.json
+C:\Users\ALUNO\Documents\popo\bin\Debug\net7.0\popo.runtimeconfig.json
+C:\Users\ALUNO\Documents\popo\bin\Debug\net7.0\popo.dll
+C:\Users\ALUNO\Documents\popo\bin\Debug\net7.0\popo.pdb
+C:\Users\ALUNO\Documents\popo\obj\Debug\net7.0\popo.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Documents\popo\obj\Debug\net7.0\popo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Documents\popo\obj\Debug\net7.0\popo.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Documents\popo\obj\Debug\net7.0\popo.AssemblyInfo.cs
+C:\Users\ALUNO\Documents\popo\obj\Debug\net7.0\popo.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Documents\popo\obj\Debug\net7.0\popo.dll
+C:\Users\ALUNO\Documents\popo\obj\Debug\net7.0\refint\popo.dll
+C:\Users\ALUNO\Documents\popo\obj\Debug\net7.0\popo.pdb
+C:\Users\ALUNO\Documents\popo\obj\Debug\net7.0\popo.genruntimeconfig.cache
+C:\Users\ALUNO\Documents\popo\obj\Debug\net7.0\ref\popo.dll
+C:\Users\ALUNO\Documents\aula 17\obj\Debug\net7.0\popo.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Documents\aula 17\obj\Debug\net7.0\popo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Documents\aula 17\obj\Debug\net7.0\popo.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Documents\aula 17\obj\Debug\net7.0\popo.AssemblyInfo.cs
+C:\Users\ALUNO\Documents\aula 17\obj\Debug\net7.0\popo.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Documents\aula 17\obj\Debug\net7.0\popo.dll
+C:\Users\ALUNO\Documents\aula 17\obj\Debug\net7.0\refint\popo.dll
+C:\Users\ALUNO\Documents\aula 17\obj\Debug\net7.0\popo.pdb
+C:\Users\ALUNO\Documents\aula 17\bin\Debug\net7.0\popo.exe
+C:\Users\ALUNO\Documents\aula 17\bin\Debug\net7.0\popo.deps.json
+C:\Users\ALUNO\Documents\aula 17\bin\Debug\net7.0\popo.runtimeconfig.json
+C:\Users\ALUNO\Documents\aula 17\bin\Debug\net7.0\popo.dll
+C:\Users\ALUNO\Documents\aula 17\bin\Debug\net7.0\popo.pdb
+C:\Users\ALUNO\Documents\aula 17\obj\Debug\net7.0\popo.genruntimeconfig.cache
+C:\Users\ALUNO\Documents\aula 17\obj\Debug\net7.0\ref\popo.dll
+C:\Users\ALUNO\Documents\aula-17-dever-master\bin\Debug\net7.0\popo.exe
+C:\Users\ALUNO\Documents\aula-17-dever-master\bin\Debug\net7.0\popo.deps.json
+C:\Users\ALUNO\Documents\aula-17-dever-master\bin\Debug\net7.0\popo.runtimeconfig.json
+C:\Users\ALUNO\Documents\aula-17-dever-master\bin\Debug\net7.0\popo.dll
+C:\Users\ALUNO\Documents\aula-17-dever-master\bin\Debug\net7.0\popo.pdb
+C:\Users\ALUNO\Documents\aula-17-dever-master\obj\Debug\net7.0\popo.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Documents\aula-17-dever-master\obj\Debug\net7.0\popo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Documents\aula-17-dever-master\obj\Debug\net7.0\popo.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Documents\aula-17-dever-master\obj\Debug\net7.0\popo.AssemblyInfo.cs
+C:\Users\ALUNO\Documents\aula-17-dever-master\obj\Debug\net7.0\popo.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Documents\aula-17-dever-master\obj\Debug\net7.0\popo.dll
+C:\Users\ALUNO\Documents\aula-17-dever-master\obj\Debug\net7.0\refint\popo.dll
+C:\Users\ALUNO\Documents\aula-17-dever-master\obj\Debug\net7.0\popo.pdb
+C:\Users\ALUNO\Documents\aula-17-dever-master\obj\Debug\net7.0\popo.genruntimeconfig.cache
+C:\Users\ALUNO\Documents\aula-17-dever-master\obj\Debug\net7.0\ref\popo.dll
